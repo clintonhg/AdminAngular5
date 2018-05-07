@@ -1,0 +1,112 @@
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\csc.exe
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\vbc.exe
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\VBCSCompiler.exe
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.dll.config
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.pdb
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Newtonsoft.Json.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.Net.Http.Formatting.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.WebHost.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\Newtonsoft.Json.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.Net.Http.Formatting.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.WebHost.xml
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.csproj.CoreCompileInputs.cache
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.csproj.CopyComplete
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.dll
+C:\Users\chuamani\Downloads\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.pdb
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\csc.exe
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\System.Collections.Immutable.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\vbc.exe
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\VBCSCompiler.exe
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\VBCSCompiler.exe.config
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.dll.config
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.pdb
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Logging.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Tokens.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Newtonsoft.Json.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Net.Http.Formatting.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.WebHost.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Logging.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Tokens.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Newtonsoft.Json.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Net.Http.Formatting.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.WebHost.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.csprojResolveAssemblyReference.cache
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.csproj.CoreCompileInputs.cache
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.csproj.CopyComplete
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.pdb
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\csc.exe
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\System.Collections.Immutable.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\System.Reflection.Metadata.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\vbc.exe
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\VBCSCompiler.exe
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\roslyn\VBCSCompiler.exe.config
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.dll.config
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\WebApi.Jwt.pdb
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Logging.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Tokens.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Newtonsoft.Json.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Net.Http.Formatting.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.WebHost.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Logging.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Microsoft.IdentityModel.Tokens.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\Newtonsoft.Json.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Net.Http.Formatting.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.WebHost.xml
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.csproj.CoreCompileInputs.cache
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.csproj.CopyComplete
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\obj\Debug\WebApi.Jwt.pdb
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Cors.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.Cors.dll
+G:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.Cors.xml
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Cors.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.Cors.dll
+E:\PROYECTOS WPF VISUAL STUDIO\WebApi.Jwt-master\WebApi.Jwt\bin\System.Web.Http.Cors.xml
